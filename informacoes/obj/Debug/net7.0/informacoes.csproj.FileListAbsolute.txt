@@ -1,0 +1,15 @@
+C:\PerfLogs\Workspace\validacaoDeInfo\informacoes\bin\Debug\net7.0\informacoes.exe
+C:\PerfLogs\Workspace\validacaoDeInfo\informacoes\bin\Debug\net7.0\informacoes.deps.json
+C:\PerfLogs\Workspace\validacaoDeInfo\informacoes\bin\Debug\net7.0\informacoes.runtimeconfig.json
+C:\PerfLogs\Workspace\validacaoDeInfo\informacoes\bin\Debug\net7.0\informacoes.dll
+C:\PerfLogs\Workspace\validacaoDeInfo\informacoes\bin\Debug\net7.0\informacoes.pdb
+C:\PerfLogs\Workspace\validacaoDeInfo\informacoes\obj\Debug\net7.0\informacoes.csproj.AssemblyReference.cache
+C:\PerfLogs\Workspace\validacaoDeInfo\informacoes\obj\Debug\net7.0\informacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\PerfLogs\Workspace\validacaoDeInfo\informacoes\obj\Debug\net7.0\informacoes.AssemblyInfoInputs.cache
+C:\PerfLogs\Workspace\validacaoDeInfo\informacoes\obj\Debug\net7.0\informacoes.AssemblyInfo.cs
+C:\PerfLogs\Workspace\validacaoDeInfo\informacoes\obj\Debug\net7.0\informacoes.csproj.CoreCompileInputs.cache
+C:\PerfLogs\Workspace\validacaoDeInfo\informacoes\obj\Debug\net7.0\informacoes.dll
+C:\PerfLogs\Workspace\validacaoDeInfo\informacoes\obj\Debug\net7.0\refint\informacoes.dll
+C:\PerfLogs\Workspace\validacaoDeInfo\informacoes\obj\Debug\net7.0\informacoes.pdb
+C:\PerfLogs\Workspace\validacaoDeInfo\informacoes\obj\Debug\net7.0\informacoes.genruntimeconfig.cache
+C:\PerfLogs\Workspace\validacaoDeInfo\informacoes\obj\Debug\net7.0\ref\informacoes.dll
